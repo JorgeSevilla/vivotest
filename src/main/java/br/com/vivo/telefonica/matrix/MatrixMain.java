@@ -1,4 +1,4 @@
-package br.com.vivo.telefonica;
+package br.com.vivo.telefonica.matrix;
 
 /**
  * <h1>Dimention Matrix</h1>
@@ -12,7 +12,7 @@ package br.com.vivo.telefonica;
 public class MatrixMain {
 
 	static int[] list;
-	static boolean number(int num) {
+	public static boolean number(int num) {
 		for (int i = 0; i < list.length; i++) {
 			if (list[i] == num) {
 				return false;

@@ -1,9 +1,9 @@
 package br.com.vivo.telefonica;
 
+import br.com.vivo.telefonica.matrix.MatrixMain;
 import junit.framework.TestCase;
 
 /**
- * <h1>Matrix Json</h1>
  * 
  * @author Jorge Sevilla
  * @version 1.0
