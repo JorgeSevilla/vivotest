@@ -1,4 +1,4 @@
-package br.com.vivo.telefonica.util;
+package br.com.vivo.telefonica.superhero.util;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

@@ -1,4 +1,4 @@
-package br.com.vivo.telefonica.util;
+package br.com.vivo.telefonica.superhero.util;
 
 public class FileStorageException extends RuntimeException{
 

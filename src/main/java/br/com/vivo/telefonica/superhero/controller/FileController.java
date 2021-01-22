@@ -1,4 +1,4 @@
-package br.com.vivo.telefonica.controller;
+package br.com.vivo.telefonica.superhero.controller;
 
 import java.io.IOException;
 import java.util.Arrays;
@@ -22,8 +22,8 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import br.com.vivo.telefonica.model.UploadFileResponse;
-import br.com.vivo.telefonica.service.FileStorageService;
+import br.com.vivo.telefonica.superheori.service.FileStorageService;
+import br.com.vivo.telefonica.superhero.model.UploadFileResponse;
 
 @RestController
 public class FileController {

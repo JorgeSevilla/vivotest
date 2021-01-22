@@ -1,4 +1,4 @@
-package br.com.vivo.telefonica.service;
+package br.com.vivo.telefonica.superheori.service;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -19,9 +19,9 @@ import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ArrayNode;
 
-import br.com.vivo.telefonica.util.FileStorageException;
-import br.com.vivo.telefonica.util.FileStorageProperties;
-import br.com.vivo.telefonica.util.MyFileNotFoundException;
+import br.com.vivo.telefonica.superhero.util.FileStorageException;
+import br.com.vivo.telefonica.superhero.util.FileStorageProperties;
+import br.com.vivo.telefonica.superhero.util.MyFileNotFoundException;
 
 @Service
 public class FileStorageService {

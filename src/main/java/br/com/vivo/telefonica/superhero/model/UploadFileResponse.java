@@ -1,4 +1,4 @@
-package br.com.vivo.telefonica.model;
+package br.com.vivo.telefonica.superhero.model;
 
 public class UploadFileResponse {
 
