@@ -1,4 +1,4 @@
-package br.com.vivo.telefonica.superheori.service;
+package br.com.vivo.telefonica.superhero.service;
 
 import java.io.IOException;
 import java.io.InputStream;
