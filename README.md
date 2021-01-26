@@ -12,9 +12,15 @@
 	</ul>
 <h3>3. Run the app</h3>
 	<ul>
-	<li>Execute the option inside eclipse Srping Boot App</li>
+	<li>Execute the option inside eclipse Spring Boot App</li>
 	<li>Can be accessed to the aplication http://localhost:8686.</li>
+	<li>Open Postman for send the files</li>
+	<li>Execute the Class SuperHeroReadFileMain like a java Application</li>
+	<li>See the the file application.properties for change configurations</li>
 	</ul>
 
 <h3>4. Run like Java Application</h3>
 	Class MatrixMain and MatrixController can be execute like Java Application
+
+
+	
