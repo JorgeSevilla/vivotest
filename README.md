@@ -22,5 +22,8 @@
 <h3>4. Run like Java Application</h3>
 	Class MatrixMain and MatrixController can be execute like Java Application
 
+<h3>5. Execute Test</h3>
+	Execute class SuperHeroReadFileMainTest
+
 
 	
