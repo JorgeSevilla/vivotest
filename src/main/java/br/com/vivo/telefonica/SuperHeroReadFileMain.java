@@ -24,6 +24,7 @@ public class SuperHeroReadFileMain {
 
         int listIndex = 0;
         for (String[] arrays : r) {
+        	
             System.out.println("\nString[" + listIndex++ + "] : " + Arrays.toString(arrays));
 
             int index = 0;
